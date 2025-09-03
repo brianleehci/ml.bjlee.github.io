@@ -9,7 +9,7 @@
 * 강의 장소:	507호
 * 강의 시간:	목요일 22:00 ~ 00:50
 * 강사: 융합공학과 이용석
-* Mail: brain.lee.hci@gmail.com
+* Mail: brian.lee.hci@gmail.com
 * 강의 홈페이지	[https://github.com/brianleehci/ml.bjlee.github.io/](https://github.com/brianleehci/ml.bjlee.github.io/)
 
 ## 강의 일정
